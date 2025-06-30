@@ -43,7 +43,7 @@ Hi! I'm a Network Technician and an undergraduate in Computer Science. Currently
 <img 
   align="left"
   alt="Github Stats"
-  width="300"
+  width="48%"
   style="padding-right: 10px;"
   src="https://github-readme-stats.vercel.app/api?username=alanamarg&show_icons=true&theme=radical&include_all_commits=true" 
 />
@@ -51,8 +51,8 @@ Hi! I'm a Network Technician and an undergraduate in Computer Science. Currently
 <img 
   align="left"
   alt="Github Stats"
-  width="300"
+  width="48%"
   style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanamarg&theme=radical&layout=compact" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanamarg&theme=radical&layout=compact&custom_title=Technologies" 
 />
 
