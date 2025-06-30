@@ -1,16 +1,58 @@
-## Hi there 👋
+## 👩‍💻 Alana Pereira
 
-<!--
-**AlanaMarg/AlanaMarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm a Network Technician and an undergraduate in Computer Science. Currently, I'm exploring backend development and always looking to learn more about technology.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👾 Languages & Technologies
+
+<img 
+  align="left"
+  alt="HTML"
+  title="HTML"
+  width="33px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+
+<img 
+  align="left"
+  alt="HTML"
+  title="HTML"
+  width="33px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+
+<img 
+  align="left"
+  alt="HTML"
+  title="HTML"
+  width="33px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+/>
+
+<br/>
+<br/>
+
+---
+
+## 📊 Statistics
+
+<img 
+  align="left"
+  alt="Github Stats"
+  width="200"
+  style="padding-right: 10px;"
+  src="https://github-readme-stats.vercel.app/api?username=alanamarg&show_icons=true&theme=radical&include_all_commits=true" 
+/>
+
+<img 
+  align="left"
+  alt="Github Stats"
+  width="200"
+  style="padding-right: 10px;"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanamarg&theme=radical&layout=compact" 
+/>
+
